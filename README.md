@@ -1,7 +1,9 @@
 # biblioteca_pandas
 
 # Case_Varejo_DNC
-# O dataset de varejo desse repositório é composto por informações de uma loja virtual que atua em todo território Nacional, vendendo produtos de diferentes departamentos. A loja também 
+
+
+O dataset de varejo desse repositório é composto por informações de uma loja virtual que atua em todo território Nacional, vendendo produtos de diferentes departamentos. A loja também 
 atua em diferentes canais de venda , como marketplace, loja própria, entre outros.
 
 Premissas de negócio:
